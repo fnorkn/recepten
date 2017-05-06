@@ -17,3 +17,4 @@ INSTRUCTIES
 
 TODO
 - psylium toevoegen voor extra vezels en langer houdbaarheid testen
+- parelsuiker uitproberen voor suikerwafels
