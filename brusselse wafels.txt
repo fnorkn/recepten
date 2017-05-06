@@ -1,0 +1,19 @@
+INGREDIENTEN
+2 cups bloem
+1 cup vegan melk
+1/2 cup aquafaba
+3 eetlepels suiker
+2 eetlepels bakbpoeder
+1 theelepel zout
+1 theelepel vanille extract
+
+INSTRUCTIES
+01	Bloem, suiker, bakpoeder, en zout in kom. Meng ingredienten.
+02 	Melk, aquafaba, vanille in kleine kom en goed mengen.
+03	Melk mengsel aan andere kom toevoegen en rustig mengen. 
+04	Zet beslag apart en zet wafelijzer op stand 6/10 
+05	Spuit wafelijzer in met olie want anders lost het niet goed (olie is uit ingredienten gehaald)
+06	Beslag in wafel doen en ongeveer 7 minuten bakken. Beslag zet uit tijdens bakken.
+
+TODO
+- psylium toevoegen voor extra vezels en langer houdbaarheid testen
