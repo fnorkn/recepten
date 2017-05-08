@@ -16,5 +16,6 @@ INSTRUCTIES
 06	Beslag in wafel doen en ongeveer 7 minuten bakken. Beslag zet uit tijdens bakken.
 
 TODO
-- psylium toevoegen voor extra vezels en langer houdbaarheid testen
+- psylium toevoegen voor extra vezels en langer houdbaarheid testen (tip: 2eetlepels met water maakte wafels superslap)
+- dus hooguit een theelepel toevoegen en kijken hoe dat uitpakt...
 - parelsuiker uitproberen voor suikerwafels
